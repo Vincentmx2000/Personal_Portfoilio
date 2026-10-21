@@ -46,7 +46,7 @@ const Hero = () => {
         },
         {
             icon: <Mail size={20} />,
-            url: 'mailto:jeniferamose@gmail.com',
+            url: 'mailto:vincentamosee@gmail.com',
             label: 'Email'
         }
     ];
