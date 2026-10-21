@@ -1,21 +1,48 @@
-<<<<<<< HEAD
-# React + Vite
+# Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+My personal developer portfolio — built to showcase my projects, skills, and experience as a full-stack developer. Live site: [add your deployed link here]
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I'm a recent MCA graduate (2026) based in Chennai, focused on full-stack development with the MERN stack. This portfolio highlights the projects I've built, the technologies I work with, and how to get in touch with me.
 
-## React Compiler
+## Featured Projects
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### [Food Rescue](https://github.com/Vincentmx2000/Food-Rescue)
+A donor–NGO–volunteer coordination platform that connects surplus food donors with NGOs and volunteers for efficient redistribution. Built with React, Node.js, Express, and MongoDB, with location-based coordination using Leaflet maps.
 
-## Expanding the Oxlint configuration
+### [Real-Time Chat Application](https://github.com/Vincentmx2000)
+A real-time messaging app featuring live chat using Socket.io, secure JWT-based authentication, and a responsive UI built with React and Tailwind CSS.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
-=======
-# Personal_Portfoilio
-My Personal Portfolio 
->>>>>>> e98e5c434fc93025304be9212ee73a30d8889751
+*(Add live demo links and screenshots for each project here once available.)*
+
+## Sections
+
+- **About Me** — background, education, and journey into development
+- **Skills** — technical stack and tools
+- **Projects** — detailed case studies with live links and GitHub repos
+- **Experience** — frontend internship at CodTech IT Solutions
+- **Contact** — get in touch via email, LinkedIn, or GitHub
+
+## Running Locally
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/Vincentmx2000/Personal_Portfoilio.git
+cd Personal_Portfoilio
+npm install
+npm run dev
+```
+
+The site will be available at `http://localhost:5173` (or whichever port Vite assigns).
+
+## Contact
+
+- **GitHub:** [Vincentmx2000](https://github.com/Vincentmx2000)
+- **LinkedIn:** https://www.linkedin.com/in/vincent-a-969b0131a
+- **Email:** vincentamosee@gmail.com
+
+---
+
+⭐ If you find this portfolio interesting, feel free to explore my other repositories or connect with me!
